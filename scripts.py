@@ -1,3 +1,7 @@
+"""
+This script is written to create a widget for use in Lecture_1.ipynb.
+"""
+
 import pandas as pd
 from datascience import *
 import numpy as np
