@@ -15,5 +15,9 @@ Based on content developed previously by Ashley Quiterio.
 These materials were designed to be taught as walkthroughs or demos over the course of two lecture days.
 
 
-## Data
+## Lecture 1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ES-21AC-sp20/master?filepath=Lecture_1.ipynb)
+
+## Lecture 2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ES-21AC-sp20/master?filepath=Lecture_2.ipynb)
 
